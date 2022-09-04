@@ -1,2 +1,2 @@
 # DreamHouse
-Help others to build thier dream house
+Help others to build their dream house
